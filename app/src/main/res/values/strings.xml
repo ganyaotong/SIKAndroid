@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SIK</string>
+    <string name="loginerr">用户名或密码错误</string>
 </resources>
